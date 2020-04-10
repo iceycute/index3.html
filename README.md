@@ -106,9 +106,7 @@
             color: white;
         
         }
-        section{
-            padding-top:  70%;
-        }
+       
         .top{
         color:white;
         }
@@ -117,11 +115,6 @@
 
 
 
-<div class="top" >
-<center>
-    <h1>piggyvest</h1>
-</center>
-</div>
     <div class="box">
         
         <form>
@@ -171,13 +164,16 @@
                 <input type="submit" value="CREATE ACCOUNT" class="inp">
             </div>
         </form>
-    </div>
-  
+        
+        
      <section>
         <center>
             <a href="https://dashboard.piggyvest.com">Already have an Account? Log in</a>
         </center>
      </section>
+     
+    </div>
+  
 
 
 </body>
