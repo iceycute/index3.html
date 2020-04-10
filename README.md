@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -107,7 +109,7 @@
         
         }
         section{
-            padding-top:  60%;
+            padding-top:  70%;
         }
     </style>
 
