@@ -21,7 +21,7 @@
         html,
         body {
             width: 100%;
-            height: 150vh;
+            height: 250vh;
             font-size: 14px;
             font-weight: normal;
             background: #ADD8E6;
@@ -109,11 +109,15 @@
         section{
             padding-top:  70%;
         }
+        .top{
+        color:white;
+        }
+  
     </style>
 
 
 
-<div class="top">
+<div class="top" >
 <center>
     <h1>piggyvest</h1>
 </center>
