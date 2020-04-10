@@ -21,7 +21,7 @@
         html,
         body {
             width: 100%;
-            height: 250vh;
+            height: 200vh;
             font-size: 14px;
             font-weight: normal;
             background: #ADD8E6;
@@ -31,7 +31,7 @@
             border: solid white;
             font-family: sans-serif;
             position: absolute;
-            top: 15%;
+            top: 25%;
             left: 34%;
             width: 450px;
             background: white;
