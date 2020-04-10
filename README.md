@@ -31,7 +31,7 @@
             border: solid white;
             font-family: sans-serif;
             position: absolute;
-            top: 25%;
+            top: 35%;
             left: 34%;
             width: 450px;
             background: white;
@@ -114,6 +114,13 @@
     </style>
 
 
+
+
+<div class="top" >
+<center>
+    <h1>piggyvest</h1>
+</center>
+</div>
 
     <div class="box">
         
