@@ -110,6 +110,11 @@
         .top{
         color:white;
         }
+        sec   
+     section{
+     padding-top:70%;
+     }
+        
   
     </style>
 
